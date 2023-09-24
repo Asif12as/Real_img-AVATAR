@@ -4,9 +4,6 @@
 
 > Convert images  into avatar!
 
-<div style="text-align:center"><img height="100" alt="Powered by Algorithmia" style="border-width:0" src="static/sample_images/algorithmia.jpeg" /></div>
-
-You can find a writeup on this webapp's architecture [here](https://medium.com/@Niraj_pandkar/how-we-built-an-inexpensive-scalable-architecture-to-cartoonize-the-world-8610050f90a0)!
 
 ---
 
@@ -17,7 +14,7 @@ You can find a writeup on this webapp's architecture [here](https://medium.com/@
   - [Docker](#using-docker)
   - [VirtualEnv](#using-virtualenv)
   - [Google Colab](#using-google-colab)
-- [Sample Image and Video](#sample-image-and-video)
+- [Sample Image](#sample-image)
 
 ---
 
