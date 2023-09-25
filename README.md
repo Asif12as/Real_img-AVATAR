@@ -1,7 +1,9 @@
 # Real_img-AVATAR
 
-[![MasterHead](https://raw.githubusercontent.com/Asif12as/Real_img-AVATAR/main/avatar%20project%20demo%20pic.JPG)
+[![MasterHead](https://raw.githubusercontent.com/Asif12as/Real_img-AVATAR/main/sample/projectINT.JPG)
 
+TO CHECK OUT THIS,
+GO TO THE root dir and  then indexx file inside the project dir and run this file
 > Convert images  into avatar!
 
 
